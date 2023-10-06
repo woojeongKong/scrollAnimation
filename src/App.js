@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <div className="grid grid-rows-1 grid-flow-col gap-4 m-[200px]">
+      <div className="flex justify-center gap-[100px] m-[200px] ">
         <div
           className="w-[300px] h-[200px] flex flex-col justify-center items-center bg-[#D6CC99] rounded-lg cursor-pointer  font-mono antialiased font-bold"
           onClick={() => {
